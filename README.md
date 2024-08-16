@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ... LYK
 - 📫 How to reach me here
-- ⚡ Fun fact: ... ummmm I can ride a bycycle backwards? Hahahah!
+- ⚡ Fun fact: ... ummmm I can ride a bicycle backwards? Hahahah!
 
 <!---
 teffq/teffq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
